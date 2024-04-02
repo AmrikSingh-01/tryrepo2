@@ -1,1 +1,3 @@
 Created 1st file in local repo in git bash locally. The remote does not even have readme file so git branch does not show anything though main is written here. It means we are going to create main branch. Logs are also empty till now
+
+added this line locally to check conflict
