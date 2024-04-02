@@ -1,0 +1,2 @@
+created remote file 2 on github to check merge conflict as this will not be available on local repo so may cause problems while pushing or pulling if the local repo
+has added any file in it which is not available in current repo by any chance.
